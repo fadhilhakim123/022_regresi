@@ -1,6 +1,5 @@
 ﻿Perempuan;;;;;;;
-PROVINSI (AMATAN);y;x1;x2;x3;;x4;x5
-;;;;semester 1;semester 2;;
+PROVINSI (AMATAN);y;x1;x2;x3 (semester 1);x3 (semester 2);x4;x5
 ACEH;72,35;41424;216;14,23;12,64;27,71;97,72
 SUMATERA UTARA;72;68306;433;7,99;7,19;23,75;65,76
 SUMATERA BARAT;72,21;54327;235;5,97;5,42;28,93;72,36
@@ -36,3 +35,13 @@ MALUKU UTARA;71,14;63677;205;6,32;6,03;15,49;70,87
 PAPUA BARAT;68,81;108101;532;21,66;21,09;16,67;73,84
 PAPUA;68,45;78061;347;17,26;18,09;12,64;81,11
 INDONESIA;74,18;;;9,03;8,57;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+variabel;keterangan;;;;;;
+y;angka harapan hidup;;;;;;
+x1;PDB per kapita;;;;;;
+x2;crime rate;;;;;;
+x3;persentase penduduk miskin;;;;;;
+x4;persentase penduduk yang mempunyai keluhan kesehatan dalam sebulan terakhir;;;;;;
+x5;persentase penduduk yang memiliki jaminan kesehatan;;;;;;
